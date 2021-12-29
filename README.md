@@ -63,10 +63,13 @@
 ```
 
 ## 调试
-在 Main.java 中打上断点，开始调试以后会发现不管怎么设置，调试都会进入tool.jar，没有走刚刚导入的源码。
-所以需要打开 Project Structure 页面（File->Project Structure）， 选中图中 Dependencies 选项卡，把<Moudle source>顺序调整到项目 JDK 的上面：
+~~在 Main.java 中打上断点，开始调试以后会发现不管怎么设置，调试都会进入tool.jar，没有走刚刚导入的源码~~
+
+~~所以需要打开 Project Structure 页面（File->Project Structure）， 选中图中 Dependencies 选项卡，把Moudle source顺序调整到项目 JDK 的上面~~
 ![20784247-cafb53969f5328b9](https://user-images.githubusercontent.com/32166825/147624488-29aa6c27-6768-431d-b2a7-708c2693253c.jpeg)
-或者这种
+  
+~~或者这种~~
+
 ![image](https://user-images.githubusercontent.com/32166825/147625132-7a5e8424-5dbd-48d0-8d0c-2bf8941d3dd5.png)
 
 这样，我们就可以开心愉快的学习了
