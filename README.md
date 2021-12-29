@@ -72,4 +72,6 @@
 
 ![image](https://user-images.githubusercontent.com/32166825/147625132-7a5e8424-5dbd-48d0-8d0c-2bf8941d3dd5.png)
 
+**某些情况下，还是难以配置成功，所以现在把包名com.sun 改为 comx.sun ，不再需要配置**
+
 这样，我们就可以开心愉快的学习了
